@@ -9,7 +9,7 @@ strategy: pure_market_making
 exchange: probit
 
 # Token trading pair for the exchange, e.g. BTC-USDT
-market: POP-USDT
+market: BTC-USDT
 
 # How far away from mid price to place the bid order.
 # Spread of 1 = 1% away from mid price at that time.
